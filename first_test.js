@@ -16,6 +16,8 @@ var caps = {
     'screenResolution': '1366x768'
 }
 
+//Heres a comment
+
 caps.username = username;
 caps.password = authkey;
  
